@@ -177,8 +177,8 @@ st.write('\n')
 st.subheader("Contact")
 st.write("---")
 st.write("""
-    - Date of birth : 29.05.1998
-    - Mobile phone : +381 649747 247
-    - Location : Novi Sad, Vojvodina    
+Date of birth : 29.05.1998\n
+Mobile phone : +381 649747 247\n
+Location : Novi Sad, Serbia 
     """
 )
