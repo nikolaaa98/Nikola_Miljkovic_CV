@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Nikola Miljkovic"
 PAGE_ICON = ":wave:"
 NAME = "Nikola Miljkovic"
 DESCRIPTION = """
-Software Engineer
+QA Automation Engineer 
 """
 
 EMAIL = "sdnikola72@gmail.com"
