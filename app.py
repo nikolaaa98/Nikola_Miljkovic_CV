@@ -73,13 +73,13 @@ st.write('\n')
 st.subheader("About me")
 st.write("---")
 st.write("""
-    My objective is to develop my technical skills in the field of computer science, from web development where I worked with AngularJS, Flask, Django, Laravel to application development where I worked with .NET WPF, PyQt5, and many more.
+    My objective is to develop my technical skills in the field of computer science, from web development where I worked with AngularJS, Flask, Django, Laravel, REST API to application development where I worked with .NET WPF, PyQt5, and many more.
 
-Also, I have experience with databases (SQL), cloud computing, and networking protocols (TCP, UDP, IP)
+Also, I have experience with databases (SQL, NoSQL), cloud computing, and networking protocols (TCP, UDP, IP)
 
 I am currently working in the automotive industry where I'm trying to gain knowledge about AUTOSAR architecture, requirements coverage, test automation, programming in Embedded C language, developing GUI applications for customers, CAN/LIN protocols, hardware, and many more.
 
-Interested in the fields of Artificial Intelligence, Machine Learning, Docker and Big Data, which I am currently studying in my master's program.
+Interested in the fields of Artificial Intelligence, Machine Learning, Docker, Smart Grid and Big Data, which I am currently studying in my master's program.
 
 Always trying to learn new things to improve my skills and knowledge. 
 Open-minded and very communicative person.
@@ -112,10 +112,12 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 👩‍💻 Programming: C (SWATT), C++, Python (PyQt5, Flask, Django, PyTest, Jenkins, Robot Framework), .NET (MVC, WPF, ASP. NET) SQL, Angular,
-JavaScript, Microcontrollers (Arduino), Agile, Networking (UDP/TCP), SCADA (Modbus protocol), VHDL
-- 📊 Data Visulization: PowerBi, MS Excel, UML, IBM Rhapsody,  IBM DOORS, DOORS DXL, Enterprise Architect, Jira, Git
-- 📚 Testing: Vector CANoe, CAPL Code, AUTOSAR, CAN/LIN bus, CANoe DiVa, CANdelaStudio, UDS protocol, Test Automation Framework (TAF), Selenium, V-Model, Electrical measurements, Soldering 
+- 👩‍💻 Networking and Communication Protocols: UDP/TCP, SCADA (Modbus protocol), UDS protocol, CAN/LIN bus
+- 📊 Programming Languages and Technologies: C, C++, VHDL, SQL, Docker, MVC, WPF, PyQt5, Angular, Django, Flask, JavaScript, ASP.NET, REST API
+- 📚 Data Analysis and Machine Learning: Machine learning, Big Data, PowerBi
+- 📊 Cloud Platforms and Development Tools: Microsoft Azure, Git, Jira, Jenkins 
+- 👩‍💻 Development Methodologies and Quality Assurance: Validations, ASPICE, V-Model, Agile, PyTest, SWATT, Selenium, Robot Framework, TAF, VDM
+- 📚 Embedded Systems and Automotive Technologies: Microcontrollers (Arduino), AUTOSAR, Matlab Simulink, IBM Rhapsody, IBM DOORS, Enterprise Architect, Vector CANoe
 """
 )
 
@@ -150,6 +152,25 @@ code-related issues
 """
 )
 
+#Education 
+st.write('\n')
+st.subheader("Education")
+st.write("---")
+
+#--- Education 1
+st.write("📚", "**Faculty of Technical Sciences | University of Novi Sad - https://github.com/nikolaaa98/Nikola_Miljkovic_CV/blob/main/20230601_082109%20(1).pdf**")
+st.write("Bachelor of Engineering – BE")
+st.write("Applied Computer Software Engineering")
+st.write("October 2017 – May 2023")
+
+# --- JOB 2
+st.write('\n')
+st.write("📚", "**Faculty of Technical Sciences | University of Novi Sad**")
+st.write("Master of Engineering – MEng,")
+st.write("Applied Computer Software Engineering")
+st.write("October 2023 - Present")
+
+
 
 # --- Projects & Accomplishments ---
 st.write('\n')
@@ -168,9 +189,19 @@ st.write('\n')
 st.subheader("Licenses & Certifications")
 st.write("---")
 st.write("""
-    🏆 Certified Tester Foundation Level (CTFL) ISTQB® - International Software Testing Qualifications Board\n
-    - Issued Jun 2023     
+    🏆 Certified Tester Foundation Level (CTFL) ISTQB® - International Software Testing Qualifications Board - - https://github.com/nikolaaa98/Nikola_Miljkovic_CV/blob/main/Certificate_Nikola_Miljkovic.pdf\n
+    - Issued Jun 2023
          """
+)
+
+st.write('\n')
+st.subheader("Languages")
+st.write("---")
+st.write("""
+🏆 English – Professional Working Proficiency\n
+🏆 German – Elementary Proficiency\n
+🏆 Serbian – Native or Bilingual Proficiency
+    """
 )
 
 st.write('\n')
